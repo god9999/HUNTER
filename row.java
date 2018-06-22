@@ -1,6 +1,5 @@
 import java.util.*;
-import java.math.*;
-class solution{
+class Main{
     public static void main(String aa[]){
         int l,k;
        Scanner s=new Scanner(System.in);
